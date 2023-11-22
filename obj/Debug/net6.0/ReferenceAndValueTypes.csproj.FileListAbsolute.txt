@@ -1,0 +1,14 @@
+D:\Projects\Syntra\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.exe
+D:\Projects\Syntra\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.deps.json
+D:\Projects\Syntra\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.runtimeconfig.json
+D:\Projects\Syntra\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.dll
+D:\Projects\Syntra\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.pdb
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfoInputs.cache
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfo.cs
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.dll
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\refint\ReferenceAndValueTypes.dll
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.pdb
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.genruntimeconfig.cache
+D:\Projects\Syntra\ReferenceAndValueTypes\obj\Debug\net6.0\ref\ReferenceAndValueTypes.dll
